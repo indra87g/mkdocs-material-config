@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Material Clean","text":"<p>A very basic MkDocs Material theme setup with dark/light mode toggle.</p>"}]}
